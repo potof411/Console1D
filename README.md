@@ -10,11 +10,11 @@
 
 -Faire un schemat electronique au propre du cablage
 
-  *faire les modifs pour porter les ponts de resistances directement sur les manettes
+  >faire les modifs pour porter les ponts de resistances directement sur les manettes
   
-  *ajouter une led neopixel sur chaque manette pour mieux visualiser qui gagne le point à chaque coup
+  >ajouter une led neopixel sur chaque manette pour mieux visualiser qui gagne le point à chaque coup
   
-  *en découler un schemat de soudage sur plaquette "universelle"
+  >en découler un schemat de soudage sur plaquette "universelle"
   
 -Lister les composants avec des liens vers banggood ou autre = devis coût total d'un proto
 
